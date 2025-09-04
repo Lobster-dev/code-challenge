@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 
-from app.routes.health import router as healthcheck_router
-from app.routes.endpoints import router as endpoint_router
+from app.api.health import router as healthcheck_router
+from app.api.endpoints import router as endpoint_router
 
 router = FastAPI(version="1.0.0")
 

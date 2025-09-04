@@ -20,7 +20,7 @@ accounts_api/
 ├─ app/
 │  ├─ __init__.py
 │  ├─ main.py                # Application entrypoint
-│  ├─ api/
+│  ├─ routes/
 │  │  ├─ __init__.py
 │  │  └─ endpoints.py        # API endpoints
 │  ├─ domain/
