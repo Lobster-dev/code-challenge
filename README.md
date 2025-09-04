@@ -7,7 +7,7 @@ This API supports deposits, withdrawals, transfers, and balance queries, keeping
 
 ## 🚀 Tech Stack
 
-- [Python 3.11+](https://www.python.org/)
+- [Python 3.13+](https://www.python.org/)
 - [FastAPI](https://fastapi.tiangolo.com/) — web framework
 - [Uvicorn](https://www.uvicorn.org/) — ASGI server
 - [Pydantic](https://docs.pydantic.dev/) — data validation
